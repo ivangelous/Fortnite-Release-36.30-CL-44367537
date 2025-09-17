@@ -1,8 +1,6 @@
 ### **Fortnite Offsets**
 
 **Version:** `++Fortnite-Release-36.30-CL-44367537`
-**From:** Sternl's dump,
-**Source:** [offsets.host](https://offsets.host) and [dumpspace.spuckwaffel.com](https://dumpspace.spuckwaffel.com)
 
 ```cpp
 namespace offsets
